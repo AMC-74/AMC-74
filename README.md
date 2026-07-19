@@ -5,7 +5,9 @@
 -->
 
 **About Me.**
-I’m currently working as a nurse manager in mental health in the South East of England. Previously I've worked in the pharmaceuticals industry where I gained SAS, PCL, SCL, SQL and VBA skills, before later completing a C&G in C++. I worked as a  SAS certified professional and gained experience as a statistical programmer / senior programmer and later technical analyst within Ops. 
+I’m currently working as a nurse manager in mental health in the South East of England. Previously I've worked in the pharmaceuticals industry and public sector  where I gained SAS, PCL, SCL, SQL and VBA skills, before later completing a C&G in C++. As a SAS certified professional I gained experience as a statistical programmer / senior programmer and later technical analyst within Ops. 
+
+I have a good knowledge of MS office products and previously held Microsoft office user specialist (MOUS) qualifications in Word, Excel and Powerpoint (latter two at expert level), and am still the "go to" person for a number of staff when it comes to MS Office related queries - especially Excel.
 
 I’m currently undertaking a data analyst apprenticeship with Multiverse to refresh and renew my skills. 
 
