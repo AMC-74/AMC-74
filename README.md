@@ -5,7 +5,7 @@
 
 I’m currently working as a nurse manager within the mental health sector in the South East of England. 
 
-Previously I was employed in data management in the travel sector, then database design and mangement in the pharmaceuticals industry and later ops for the public sector. I gained skills in SAS, PCL, SCL, SQL and VBA, also completed a C&G in C++. I gained experience as a statistical programmer / senior programmer and later as an Ops technical analyst. I was a SAS certified professional with real-world experience of using SAS Base, Graph and MXG etc. 
+Previously I was employed in data management in the travel sector, then database design and mangement in the pharmaceuticals industry and later Ops for a public sector body. I gained practical skills in SAS, PCL, SCL, SQL and VBA, and  completed a C&G in C++. My experience was gained as a statistical programmer / senior programmer and later as an operations technical analyst, during this time I was a SAS certified professional and gained experience accross a number of SAS modules including Base, Graph and MXG. 
 
 I have a good knowledge of MS office products and previously held Microsoft office user specialist (MOUS) qualifications in Word, Excel and Powerpoint (the former  two at expert level), and am still the "go to" person for a number of staff when it comes to MS Office related queries - especially Excel.
 
