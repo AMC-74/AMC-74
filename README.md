@@ -3,18 +3,25 @@
 -->
 ## **Alan Cooper** 
 
-I’m currently working as a nurse manager within the mental health sector in the South East of England. 
+I'm a Nurse Manager in the mental health sector in the South East of England with a previous career in data management, statistical programming and operational analysis. I'm currently completing a Data Analyst apprenticeship with Multiverse to refresh and expand my technical skills.
 
-Previously I was employed in data management in the travel sector, then database design and mangement in the pharmaceuticals industry and later Ops for a public sector body. I gained practical skills in SAS, PCL, SCL, SQL and VBA, and  completed a C&G in C++. My experience was gained as a statistical programmer / senior programmer and later as an operations technical analyst, during this time I was a SAS certified professional and gained experience accross a number of SAS modules including Base, Graph and MXG. 
+My professional background spans the travel, pharmaceutical, and public sectors. I have worked in Data Management, as a Statistical Programmer, Senior Programmer, and Operations Technical Analyst. 
 
-I have a good knowledge of MS office products and previously held Microsoft office user specialist (MOUS) qualifications in Word, Excel and Powerpoint (the former  two at expert level), and am still the "go to" person for a number of staff when it comes to MS Office related queries - especially Excel.
+My earlier career involved developing statistical programming and data management solutions using SAS, SQL, VBA, PCL, and SCL. I was a SAS Certified Professional (v6) experienced using SAS Base, Macro, GRAPH, and MXG across Windows, Unix, and mainframe environments.
 
-I’m currently undertaking a data analyst apprenticeship with Multiverse to refresh and renew my IT skills. 
+I'm an experienced Microsoft Office user, previously holding Microsoft Office User Specialist (MOUS) certifications in Excel (Expert), Word (Expert), and PowerPoint. Excel remains one of my strengths and I'm often the person colleagues turn to for problem-solving advice.
 
-My pronouns are He/Him and my fun fact is that I'm a cat dad.
+If you want to know more please have a look at my [LinkedIn](https://www.linkedin.com/in/alan-cooper-2a1a02370/) and [Microsoft Learn](https://learn.microsoft.com/en-us/users/cooperalanspft-1930/achievements) profiles.
 
-If you want to know more about me please have a look at my [LinkedIn](https://www.linkedin.com/in/alan-cooper-2a1a02370/) and [Microsoft Learn](https://learn.microsoft.com/en-us/users/cooperalanspft-1930/achievements) profiles.
+## *Current interests*
+📊 Data analytics
 
-<!--
-If you want to know more about me please have a look at my [LinkedIn.](https://www.linkedin.com/in/alan-cooper-2a1a02370/) profile, or feel free to browse some examples of previous [Excel Projects.](https://drive.google.com/drive/folders/1RO_pCNMbxn06eGAVKby712YpDYybzpd1?usp=drive_link) (Hosted on Google Drive).
--->
+📈 Data visualisation
+
+🗄️ SQL
+
+📑 Excel automation & VBA
+
+🐍 Python
+
+🏥 Applying data to improve healthcare services
