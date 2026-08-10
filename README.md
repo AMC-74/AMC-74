@@ -9,9 +9,17 @@ My professional IT background spans the travel, pharmaceutical, and public secto
 
 I'm an experienced Microsoft Office user, previously holding Microsoft Office User Specialist (MOUS) certifications in Excel (Expert), Word (Expert), and PowerPoint. Excel remains one of my strengths and I'm often the person colleagues turn to for problem-solving advice.
 
-If you want to know more please have a look at my [LinkedIn](https://www.linkedin.com/in/alan-cooper-2a1a02370/) and [Microsoft Learn](https://learn.microsoft.com/en-us/users/cooperalanspft-1930/achievements) profiles, as well as individual Udacity courses I have completed; 
+If you want to know more please have a look at my;
 
-[Generative AI Fundamentals with Google Cloud](www.udacity.com/certificate/e/bc5ce760-943a-11f1-a713-ffa16fc326f6)
+
+
+
+   
+[<img width="40" height="40" src="https://github.com/user-attachments/assets/82dce2fd-74f4-4011-95fd-a65147cd9a2d" /> LinkedIn Profile](https://www.linkedin.com/in/alan-cooper-2a1a02370/)
+[<img width="85" height="33" alt="MSLEARN Logo" src="https://github.com/user-attachments/assets/03da5e2e-d194-4f8a-bcc9-71d3a9815de5" /> 
+Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/cooperalanspft-1930/achievements), as well as individual Udacity courses I have completed, including; 
+
+[Generative AI Fundamentals with Google Cloud](http://www.udacity.com/certificate/e/bc5ce760-943a-11f1-a713-ffa16fc326f6)
 ## *Current interests*
 📊 Data analytics
 
