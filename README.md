@@ -9,6 +9,8 @@ My professional IT background spans the travel, pharmaceutical, and public secto
 
 I'm an experienced Microsoft Office user, previously holding Microsoft Office User Specialist (MOUS) certifications in Excel (Expert), Word (Expert), and PowerPoint. Excel remains one of my strengths and so I'm often the person colleagues turn to for problem-solving advice.
 
+As a senior nurse manager I am involved in providing assurance to the Trust board, overseeing the management of staff sickness, attendance and disciplinary cases, including fact finding and formal investigations, staff welfare and wellbeing, promotion of safe and effective care, maintaining hygiene, promoting innovation,   and challenging inappropriate standards, actions or behaviours as well as identifying learning and process changes following incidents.
+
 If you want to know more about me, what I do, or what I'm learning as part of my course please have a look at;
 
 
@@ -21,7 +23,7 @@ If you want to know more about me, what I do, or what I'm learning as part of my
 Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/cooperalanspft-1930/achievements)
 
 
-Although I've done a lot on MS Learn I'm also completing courses on other platforms such as Udacity, including; [Generative AI Fundamentals with Google Cloud](http://www.udacity.com/certificate/e/bc5ce760-943a-11f1-a713-ffa16fc326f6), and earning SAS badges which you can see on my [Credly](https://www.credly.com/users/alan-cooper.a4e1a2ad) page.
+In addition to the various courses I've completed on Microsoft Learn I'm also completing courses on other platforms such as Udacity, including; [Generative AI Fundamentals with Google Cloud](http://www.udacity.com/certificate/e/bc5ce760-943a-11f1-a713-ffa16fc326f6), and earning badges for SAS which you can see on my [Credly](https://www.credly.com/users/alan-cooper.a4e1a2ad) page.
 
 
 ## *Current interests*
