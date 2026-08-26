@@ -12,7 +12,7 @@ My professional IT background spans the travel, pharmaceutical, and public secto
 I am an experienced Microsoft Office user, previously holding Microsoft Office User Specialist (MOUS) certifications in Excel (Expert), Word (Expert), and PowerPoint. Excel remains one of my strengths and so I'm often the person colleagues turn to for problem-solving advice.
 
 
-As part of my apprenticeship I've completed a number of short course on [Microsoft Learn](https://learn.microsoft.com/en-us/users/cooperalanspft-1930/achievements) earning various badges, as well as various other badges such as SAS SQL, which you can see on my [Credly](https://www.credly.com/users/alan-cooper.a4e1a2ad) page, and courses on various platforms such as Udacity's [Generative AI Fundamentals with Google Cloud](http://www.udacity.com/certificate/e/bc5ce760-943a-11f1-a713-ffa16fc326f6), and Dataquest's [Intro to Python for Data Science](https://app.dataquest.io/view_cert/RPEWAYGB6K27CYKEB9VA).
+As part of my apprenticeship I've completed a number of short course on [Microsoft Learn](https://learn.microsoft.com/en-us/users/cooperalanspft-1930/achievements) earning various badges, as well SAS badges, which you can see on my [Credly](https://www.credly.com/users/alan-cooper.a4e1a2ad) page, various courses on other platforms such as Udacity's [Generative AI Fundamentals with Google Cloud](http://www.udacity.com/certificate/e/bc5ce760-943a-11f1-a713-ffa16fc326f6), Segmentation and Clustering, and Dataquest's [Intro to Python for Data Science](https://app.dataquest.io/view_cert/RPEWAYGB6K27CYKEB9VA).
 
 If you want to know more about me, what I do, or what I'm learning as part of my course please have a look at my [LinkedIn](https://www.linkedin.com/in/alan-cooper-2a1a02370/) profile.
 
