@@ -11,7 +11,7 @@ As a senior nurse manager I have a wide range of transferable skills and experie
 
 My professional IT background spans the travel, pharmaceutical, and public sectors where I worked in Data Management, as a Statistical Programmer, Senior Programmer and an Operations Technical Analyst. My career involved developing programming and data management solutions using SAS, SQL, VBA, PCL, and SCL. I was a SAS Certified Professional (version 6) experienced using SAS Base, Macro, Graph and MXG across Windows, Unix, and mainframe environments.
 
-I am an experienced Microsoft Office user, previously holding Microsoft Office User Specialist (MOUS) certifications in Excel (Expert), Word (Expert), and PowerPoint. Excel remains one of my strengths and so I'm often the person colleagues turn to for problem-solving advice.
+I'm an experienced Microsoft Office user, previously holding Microsoft Office User Specialist (MOUS) certifications in Excel (Expert), Word (Expert), and PowerPoint. Excel remains one of my strengths so I'm often the person colleagues turn to for problem-solving advice on this. I've used my Excel skills to produce several helpful VBA enabled tools to increase productivity for others.
 
 
 
@@ -26,8 +26,8 @@ If you want to know more about me, what I do, or what I'm learning as part of my
 
 🗄️ SQL
 
-📑 Excel automation & VBA
+📑 Excel & VBA
 
 🐍 Python
 
-🏥 Applying data to improve healthcare services
+🏥 Applying data skills to improve healthcare services
