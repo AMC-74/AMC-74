@@ -19,6 +19,17 @@ I'm an experienced Microsoft Office user, previously holding Microsoft Office Us
 If you want to know more about me, what I do, or what I'm learning as part of my course please have a look at my [LinkedIn](https://www.linkedin.com/in/alan-cooper-2a1a02370/) profile.
 
 
+
+
+<!--
+***********************************************************************
+*                Edit Notion Profile at a later stage                 *
+
+or my [Notion](https://app.notion.com/p/Alan-Cooper-9242bc864f758378b203812254913fbc) homepage.
+
+***********************************************************************
+-->
+
 ## *Current interests*
 📊 Data analytics
 
