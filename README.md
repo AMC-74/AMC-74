@@ -26,7 +26,8 @@ If you want to know more about me, what I do, or what I'm learning as part of my
 *                Edit Notion Profile at a later stage                 *
 
 or my [Notion](https://app.notion.com/p/Alan-Cooper-9242bc864f758378b203812254913fbc) homepage.
-
+and Google Profile - however likely shared via Credly 
+    https://www.skills.google/public_profiles/6a59db92-f39b-4ca5-afd6-f9564a6de132
 ***********************************************************************
 -->
 
